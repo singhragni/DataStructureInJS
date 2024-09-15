@@ -1,0 +1,22 @@
+{
+  "name": "datastructureinjs",
+  "version": "1.0.0",
+  "description": "Data structure in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhragni/DataStructureInJS.git"
+  },
+  "keywords": [
+    "DS"
+  ],
+  "author": "Ragini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhragni/DataStructureInJS/issues"
+  },
+  "homepage": "https://github.com/singhragni/DataStructureInJS#readme"
+}
